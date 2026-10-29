@@ -1,0 +1,18 @@
+KATTERUMS JAKTLAG v2.5.12 - RIKTAD RATTNING AV OBSERVATIONSSTATISTIK
+
+Bas: stabil v2.5.10.
+
+Andrat endast i Observationsstatistik:
+- Jaktmarksgransen och dess blaa granspunkter visas permanent.
+- Gransen tas inte langre bort nar statistiklagren ritas om.
+- Karta/satellit-knappen skapas lokalt i kartvyn och fungerar utan beroende av en funktion i ett annat kodblock.
+- Vald karttyp sparas i webblasaren.
+
+Inte andrat:
+- Supabase eller molnsynk
+- Login och roller
+- Navigation
+- Ovriga kartor
+- Befintliga data
+
+Ladda upp samtliga filer i paketet till GitHub-repots rot. Kor ingen SQL.
